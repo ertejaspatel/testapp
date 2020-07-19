@@ -21,7 +21,7 @@
     "express-session": "^1.17.0",
     "gestalt": "^0.112.0",
     "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mailchecker": "^3.3.3",
     "mobx": "^5.15.1",
     "mobx-react": "^6.1.4",
