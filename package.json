@@ -20,7 +20,7 @@
     "express-flash": "^0.0.2",
     "express-session": "^1.17.0",
     "gestalt": "^0.112.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.15",
     "mailchecker": "^3.3.3",
     "mobx": "^5.15.1",
